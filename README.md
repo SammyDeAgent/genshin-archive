@@ -1,4 +1,4 @@
-# Genshin Builds
+# Genshin Archive
 <p>
 Sammy's Genshin Character Build, Guides and Gacha History.<br>
 Asia Server UID - <strong>809559506</strong><br>
