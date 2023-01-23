@@ -46,7 +46,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
-![Cryo Shielder/Support/Driver](/builds/layla.png "Hybrid Cryo Shielder/Support/Driver")
+![Cryo Shielder/Support/Driver](/builds/layla.png "Cryo Shielder/Support/Driver")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
