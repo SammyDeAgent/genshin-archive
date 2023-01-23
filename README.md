@@ -20,18 +20,18 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Elemental Shield Counter Guide](/guides/Genshin_Reaction_Infograhpics_Sammy_02.png "Elemental Shield Counter Guide")
 
 ## Frequently Used Builds
-<p>Common characters that is used in Abyss challenges. Hover over to see their roles.</p>
+<p>Common characters that I used in Abyss challenges. Hover over to see their roles.</p>
 
 ![Geo Sub DPS Albedo](/builds/albedo.png "Geo Sub DPS Albedo")
-![Hybrid Healer/Buffer Barbara](/builds/barbara.png "Hybrid Healer/Buffer Barbara")
-![Hybrid Pyro Sub DPS/Buffer Bennett](/builds/bennett.png "Hybrid Pyro Sub DPS/Buffer Bennett")
+![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
+![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
-![Dendro Sub DPS Nahida](/builds/nahida.png "Dendro Sub DPS Nahida")
-![Electro DPS Raiden](/builds/raiden.png "Electro DPS Raiden")
+![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
+![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
 ![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
 ![Dendro Driver Traveler](/builds/traveler-dendro.png "Dendro Driver Traveler")
@@ -42,12 +42,14 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ## Partial Builds
 <p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
-![Healer Dori](/builds/dori.png "Healer Dori")
-![Aggravate Fischl](/builds/fischl.png "Aggravate Fischl")
-![Aggravate Keqing](/builds/keqing.png "Aggravate Keqing")
+![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
+![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
+![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
+![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
+![Cryo Shielder/Support/Driver](/builds/layla.png "Hybrid Cryo Shielder/Support/Driver")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
-![Hybrid Physical DPS/Healer Qiqi](/builds/qiqi.png "Hybrid Physical DPS/Healer Qiqi")
+![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
@@ -58,10 +60,8 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Amber</li>
   <li>Beidou</li>
   <li>Chongyun</li>
-  <li>Collei</li>
   <li>Diona</li>
   <li>Kaeya</li>
-  <li>Layla</li>
   <li>Lisa</li>
   <li>Noelle</li>
   <li>Sayu</li>
