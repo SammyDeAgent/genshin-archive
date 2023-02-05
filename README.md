@@ -16,7 +16,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 
 ## Guides Infographics
 <p>Elemental reactions, shield counter guides for starters or revision purposes.</p>
-<p>For advanced and in-depth guide on how the reactions works, check out <a href="https://www.youtube.com/watch?v=CRYFIJlmXFA">Elemental Gauge Theory</a>.</p>
+<p>For advanced and in-depth guide on how the reactions works, check out <a href="https://www.youtube.com/watch?v=CRYFIJlmXFA">Elemental Gauge Theory</a> and also <a href="https://www.youtube.com/watch?v=kXXovknJDMI">ICD Mechanic</a>.</p>
 
 ![Elemental Reaction Guide](/guides/Genshin_Reaction_Infograhpics_Sammy_01.png "Elemental Reaction Guide")
 ![Elemental Shield Counter Guide](/guides/Genshin_Reaction_Infograhpics_Sammy_02.png "Elemental Shield Counter Guide")
