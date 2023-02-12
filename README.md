@@ -27,7 +27,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Geo Sub DPS Albedo](/builds/albedo.png "Geo Sub DPS Albedo")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
-![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
@@ -38,7 +37,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
 ![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
-![Dendro Driver Traveler](/builds/traveler-dendro.png "Dendro Driver Traveler")
+![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver Traveler")
 ![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
 ![Geo Sub DPS/Support/Buffer Zhongli](/builds/zhongli.png "Geo Sub DPS/Support/Buffer Zhongli")
@@ -46,6 +45,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ## Partial Builds
 <p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
+![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
