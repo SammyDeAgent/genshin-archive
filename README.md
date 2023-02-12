@@ -37,7 +37,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
 ![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
-![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver Traveler")
+![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler")
 ![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
 ![Geo Sub DPS/Support/Buffer Zhongli](/builds/zhongli.png "Geo Sub DPS/Support/Buffer Zhongli")
