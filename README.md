@@ -46,6 +46,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 <p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
 ![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
+![Cryo Healer/Buffer Diona](/builds/diona.png "Cryo Healer/Buffer Diona")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
@@ -64,7 +65,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Amber</li>
   <li>Beidou</li>
   <li>Chongyun</li>
-  <li>Diona</li>
   <li>Kaeya</li>
   <li>Noelle</li>
   <li>Sayu</li>
