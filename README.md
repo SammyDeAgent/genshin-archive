@@ -66,6 +66,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Beidou</li>
   <li>Chongyun</li>
   <li>Kaeya</li>
+  <li>Mika</li>
   <li>Noelle</li>
   <li>Sayu</li>
   <li>Sucrose</li>
