@@ -110,7 +110,7 @@ One word, electro-charged. This team focuses on Xingqiu's rain swords to deal da
 ![Kuki Hyperbloom](/teams/kuki_hyperbloom.png "Kuki Hyperbloom")
 <br>
 Single target homing dendro missile. 
-Nahida is crucial to the team due to her unique Dendro application, else other Dendro driver can also be used but not that effective. The main purpose is to generate as much dendro seed and then hyperbloom them. Rotation wise, create dendro seed via Xingqiu's Burst and dendro drivers -> hyperbloom them, rinse and repeat. Shinobu can be replaced by Raiden too for maximum hyeprbloom intervals.
+Nahida is crucial to the team due to her unique Dendro application, else other Dendro driver can also be used but not that effective. The main purpose is to generate as much dendro seed and then hyperbloom them. Rotation wise, create dendro seed via Xingqiu's Burst and dendro drivers -> hyperbloom them, rinse and repeat. Shinobu can be replaced by Raiden too for maximum hyperbloom intervals.
 
 ### Grass Bomb - Thoma Burgeon
 ![Thoma Burgeon](/teams/thoma_burgeon.png "Thoma Burgeon")
