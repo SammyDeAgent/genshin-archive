@@ -45,7 +45,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler")
 ![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
-![Geo Sub DPS/Support/Buffer Zhongli](/builds/zhongli.png "Geo Sub DPS/Support/Buffer Zhongli")
+![Geo Support/Shielder Zhongli](/builds/zhongli.png "Geo Support/Shielder Zhongli")
 
 ## Partial Builds
 <p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
@@ -54,6 +54,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Cryo Healer/Buffer Diona](/builds/diona.png "Cryo Healer/Buffer Diona")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
+![Cryo Sub DPS/Driver Kaeya](/builds/kaeya.png "Cryo Sub DPS/Driver Kaeya")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
 ![Cryo Shielder/Support/Driver Layla](/builds/layla.png "Cryo Shielder/Support/Driver Layla")
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
@@ -70,7 +71,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Amber</li>
   <li>Beidou</li>
   <li>Chongyun</li>
-  <li>Kaeya</li>
   <li>Mika</li>
   <li>Noelle</li>
   <li>Sayu</li>
@@ -125,7 +125,7 @@ A classic team, with Diluc as DPS and using reverse-vape with the help of Xingqi
 ### Melt Diluc
 ![Melt Diluc](/teams/melt_diluc.png "Melt Diluc")
 <br>
-Brothers in arm. Almost same twist as Vape Diluc but instead of Xingqiu, Kaeya would be the one applying Cryo on enemy. Same rotation as Vape Diluc. Use any other buffer or support in your mind too!
+Brothers in arm. Almost same twist as Vape Diluc but instead of Xingqiu, Kaeya would be the one applying Cryo on enemy. Same rotation as Vape Diluc but using Zhongli as support instead. Use any other buffer or support in your mind too!
 
 ### Star Platinum - Razor Hypercarry
 ![Razor Hypercarry](/teams/razor_hypercarry.png "Razor Hypercarry")
