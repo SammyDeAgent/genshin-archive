@@ -37,6 +37,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
+![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
 ![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
 ![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
@@ -71,7 +72,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Amber</li>
   <li>Beidou</li>
   <li>Chongyun</li>
-  <li>Mika</li>
   <li>Noelle</li>
   <li>Sayu</li>
   <li>Sucrose</li>
