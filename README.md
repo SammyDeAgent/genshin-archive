@@ -33,6 +33,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
+![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
@@ -44,6 +45,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
 ![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler")
+![Pyro Sub DPS/Driver Xiangling](/builds/xiangling.png "Pyro Sub DPS/Driver Xiangling")
 ![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
 ![Geo Support/Shielder Zhongli](/builds/zhongli.png "Geo Support/Shielder Zhongli")
@@ -56,6 +58,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
 ![Cryo Sub DPS/Driver Kaeya](/builds/kaeya.png "Cryo Sub DPS/Driver Kaeya")
+![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
 ![Cryo Shielder/Support/Driver Layla](/builds/layla.png "Cryo Shielder/Support/Driver Layla")
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
@@ -78,7 +81,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
   <li>Traveler - Anemo</li>
   <li>Traveler - Geo</li>
   <li>Traveler - Electro</li>
-  <li>Xiangling</li>
   <li>Xinyan</li> 
 </ul>
 
@@ -100,6 +102,12 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 ![Musou Isshin](/teams/raiden_hypercarry.png "Musou Isshin")
 <br>
 Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Anemo Swirl Shred -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen.
+
+### Raiden National
+![Raiden National](/teams/raiden_national.png "Raiden National")
+<br>
+Another variation of the National team to buff our Polearm Archon Xiangling. Here, Raiden's elemental skill is able to buff Xiangling's burst alongside Bennett, with Xingqiu as Hydro driver.
+Rotation: Raiden's skill -> Xiangling's skill -> Bennett's Burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Raiden's Burst. Noted that Xiangling's burst will snapshot the damage.
 
 ### Raiden Taser
 ![Raiden Taser](/teams/raiden_taser.png "Raiden Taser")
