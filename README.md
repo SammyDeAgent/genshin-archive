@@ -37,6 +37,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
+![Dendro Driver/Shielder/Sub DPS](/builds/kirara.png "Dendro Driver/Shielder/Sub DPS")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
 ![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
@@ -123,7 +124,7 @@ Nahida is crucial to the team due to her unique Dendro application, else other D
 ### Grass Bomb - Thoma Burgeon
 ![Thoma Burgeon](/teams/thoma_burgeon.png "Thoma Burgeon")
 <br>
-AoE dendro explosions. Be sure to take a healer or a shield because burgeon will cause team damage! Rotation: create dendro seed via Xingqiu's burst and dendro drivers -> Thoma's Burst + Skill, rinse and repeat. Note that Thoma's Burst pyro driver might be a problem if hes not C6 or have enough energy generation, so Dehya is also a good option.
+AoE dendro explosions. Be sure to take a healer or a shield because burgeon will cause team damage! Rotation: create dendro seed via Xingqiu's burst and dendro drivers -> Thoma's Burst + Skill, rinse and repeat. Note that Thoma's Burst pyro driver might be a problem if hes not C6 or have enough energy generation, so Dehya is also a good option. If one could not survive the bombs, you can switch out traveller for Kirara shield utility.
 
 ### Vape Diluc
 ![Vape Diluc](/teams/vape_diluc.png "Vape Diluc")
