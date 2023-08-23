@@ -151,3 +151,8 @@ Sniping 50cal from faraway with this fun and meme build. The sole purpose is to 
 ![Fridge Hyperbloom](/teams/fridge_hyperbloom.png "Fridge Hyperbloom")
 <br>
 The team is called as Fridge because it consist of Dendro as Vegetables, Hydro as Water, Cyro as Ice/Fridge and Electro as Electricity. Either way, this team functions identical to the usual hyperbloom team, but it have the advantage of freezing the enemy. Ideally, a Cyro DPS can replace Layla here.
+
+### Soup Burgeon
+![Soup Burgeon](/teams/soup_burgeon.png "Soup Burgeon")
+<br>
+Another variation of the dendro team comp. The "Soup" Team is called as such because of Dendro as Vegetables, Hydro as Water/Soup, Pyro as Heat and Anemo as Stiring action. Either way, this team functions similiar to the usual burgeon team, but have the advantage of gathering crowds and blowing them up in range of Burgeon reaction.
