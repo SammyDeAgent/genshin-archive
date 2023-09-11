@@ -29,6 +29,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 <p>Common characters that I used in Abyss challenges. Hover over to see their roles.</p>
 
 ![Geo Sub DPS Albedo](/builds/albedo.png "Geo Sub DPS Albedo")
+![Cyro DPS Aloy](/builds/aloy.png "Cyro DPS Aloy")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
@@ -62,6 +63,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
 ![Cryo Shielder/Support/Driver Layla](/builds/layla.png "Cryo Shielder/Support/Driver Layla")
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
+![Anemo Sub DPS Lynette](/builds/lynette.png "Anemo Sub DPS Lynette")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
@@ -71,11 +73,9 @@ Gacha Log Export Tool - [Link Here](https://github.com/smeraldoflower/genshin-ga
 ## WIP Builds
 <p>These character are still in-building, or I don't have the weapon/artifact for them...</p>
 <ul>
-  <li>Aloy</li>
   <li>Amber</li>
   <li>Beidou</li>
   <li>Chongyun</li>
-  <li>Lynette</li>
   <li>Noelle</li>
   <li>Sayu</li>
   <li>Sucrose</li>
