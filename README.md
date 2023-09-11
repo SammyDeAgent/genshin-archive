@@ -32,6 +32,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Cyro DPS Aloy](/builds/aloy.png "Cyro DPS Aloy")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
+![Cryo Healer/Buffer Diona](/builds/diona.png "Cryo Healer/Buffer Diona")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
@@ -56,7 +57,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
 ![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
-![Cryo Healer/Buffer Diona](/builds/diona.png "Cryo Healer/Buffer Diona")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Cryo Sub DPS/Driver Kaeya](/builds/kaeya.png "Cryo Sub DPS/Driver Kaeya")
 ![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
@@ -111,11 +111,6 @@ Second Trump Card team composition of annihilating opponents that is not Electro
 Another variation of the National team to buff our Polearm Archon Xiangling. Here, Raiden's elemental skill is able to buff Xiangling's burst alongside Bennett, with Xingqiu as Hydro driver.
 Rotation: Raiden's skill -> Xiangling's skill -> Bennett's Burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Raiden's Burst. Noted that Xiangling's burst will snapshot the damage.
 
-### Raiden Taser
-![Raiden Taser](/teams/raiden_taser.png "Raiden Taser")
-<br>
-One word, electro-charged. This team focuses on Xingqiu's rain swords to deal damage in collaboration with Raiden and Anemo Swirls to trigger chained taser. This is where Xingqiu is recommended to use Lion's Roar instead of the usual Sacrificial Sword to maximize the weapon's passive. Rotation wise, use Bennett's burst before Xingqiu and Raiden's Abilities.
-
 ### Missile Barrage - Kuki Hyperbloom
 ![Kuki Hyperbloom](/teams/kuki_hyperbloom.png "Kuki Hyperbloom")
 <br>
@@ -126,6 +121,11 @@ Nahida is crucial to the team due to her unique Dendro application, else other D
 ![Thoma Burgeon](/teams/thoma_burgeon.png "Thoma Burgeon")
 <br>
 AoE dendro explosions. Be sure to take a healer or a shield because burgeon will cause team damage! Rotation: create dendro seed via Xingqiu's burst and dendro drivers -> Thoma's Burst + Skill, rinse and repeat. Note that Thoma's Burst pyro driver might be a problem if hes not C6 or have enough energy generation, so Dehya is also a good option. Barbara here can be replaced by another Dendro character if you can survive the bombs.
+
+### Aggravate Fischl
+![Aggravate Fischl](/teams/aggravate_fischl.png "Aggravate Fischl")
+<br>
+This team mainly focuses on the full potential of Fischl. Using Diona's Constellation 6 that increases EM, Nahida's Burst and also dual Dendro Resonanance, it can bump the aggravate + spread damage to sky high! Just pop all EM increasing buff and apply Dendro Status on the enemies before using either Fischl Skill or Burst; if used correctly, Fischl's Oz will have indefinite uptime by cycling between Skill and Burst. Other EM buffer or Element Support can also be used here. Technically speaking, Keqing can also be used here.
 
 ### Vape Diluc
 ![Vape Diluc](/teams/vape_diluc.png "Vape Diluc")
@@ -141,6 +141,11 @@ Brothers in arm. Almost same twist as Vape Diluc but instead of Xingqiu, Kaeya w
 ![Razor Hypercarry](/teams/razor_hypercarry.png "Razor Hypercarry")
 <br>
 A physical DPS team, noted that Razor can be replaced by other physical builds such as Fischl or Zhongli (Cresent Pike) etc. Rotation wise: Razor Skill -> Rosaria Burst/Skill -> Mika Burst/Skill -> Yunjin Burst/Skill -> Razor Burst. If you have Eula, go ahead and run wild, though might need to switch out Yunjin if thats the case.
+
+### Raiden Taser
+![Raiden Taser](/teams/raiden_taser.png "Raiden Taser")
+<br>
+One word, electro-charged. This team focuses on Xingqiu's rain swords to deal damage in collaboration with Raiden and Anemo Swirls to trigger chained taser. This is where Xingqiu is recommended to use Lion's Roar instead of the usual Sacrificial Sword to maximize the weapon's passive. Rotation wise, use Bennett's burst before Xingqiu and Raiden's Abilities. You can replace Raiden here with Beidou and go on Full-Counter Mode!
 
 ### Sniper Nahida
 ![Sniper Nahida](/teams/sniper_nahida.png "Sniper Nahida")
