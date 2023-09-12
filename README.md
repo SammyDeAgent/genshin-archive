@@ -26,24 +26,26 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 >A quick tip: Ruin Machines will have increased RES to the first instance of that particular type of elemental damage deal to them, their Physical RES is also very high most of the time.
 
 ## Frequently Used Builds
-<p>Common characters that I used in Abyss challenges. Hover over to see their roles.</p>
+<p>Common characters that I used in Abyss challenges or Overworld ventures. Hover over to see their roles.</p>
 
 ![Geo Sub DPS Albedo](/builds/albedo.png "Geo Sub DPS Albedo")
 ![Cyro DPS Aloy](/builds/aloy.png "Cyro DPS Aloy")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
-![Cryo Healer/Buffer Diona](/builds/diona.png "Cryo Healer/Buffer Diona")
+![Cryo Healer/EM Buffer Diona](/builds/diona.png "Cryo Healer/EM Buffer Diona")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
 ![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
-![Dendro Driver/Shielder/Sub DPS](/builds/kirara.png "Dendro Driver/Shielder/Sub DPS")
+![Dendro Driver/Shielder/Sub DPS Kirara](/builds/kirara.png "Dendro Driver/Shielder/Sub DPS Kirara")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
+![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
 ![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
+![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
 ![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
@@ -54,7 +56,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Geo Support/Shielder Zhongli](/builds/zhongli.png "Geo Support/Shielder Zhongli")
 
 ## Partial Builds
-<p>Characters that is not used in Abyss that much as compared to overworld. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
+<p>Characters that are not used in Abyss nor Overworld that often. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
 ![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
@@ -64,10 +66,8 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Cryo Shielder/Support/Driver Layla](/builds/layla.png "Cryo Shielder/Support/Driver Layla")
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
 ![Anemo Sub DPS Lynette](/builds/lynette.png "Anemo Sub DPS Lynette")
-![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
-![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
 ## WIP Builds
@@ -89,7 +89,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 
 ## Team Comps
 <p>
-Team Composition that I mainly use in either overworld or Abyss runs.
+Team Composition that I mainly use in either Overworld or Abyss runs.
 
 >Noted that elemental buffers/drivers or DPS can be swapped such as Diluc to Yanfei, Kazuha to Sucrose, Xingqiu to Barbara for a flexible and economical approach to builds. Flexible buffer may include: Diona (C6 EM Buff), Mona, Layla (Shielding), Barbara (Thrilling Tales of Dragon Slayer Buff) etc. <br> Run wild with your imagination!
 
