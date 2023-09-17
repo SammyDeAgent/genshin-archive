@@ -59,6 +59,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <p>Characters that are not used in Abyss nor Overworld that often. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
 ![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
+![Cryo Sub DPS/Driver Chongyun](/builds/chongyun.png "Cryo Sub DPS/Driver Chongyun")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Cryo Sub DPS/Driver Kaeya](/builds/kaeya.png "Cryo Sub DPS/Driver Kaeya")
 ![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
@@ -75,7 +76,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <ul>
   <li>Amber</li>
   <li>Beidou</li>
-  <li>Chongyun</li>
   <li>Noelle</li>
   <li>Sayu</li>
   <li>Sucrose</li>
@@ -110,6 +110,12 @@ Second Trump Card team composition of annihilating opponents that is not Electro
 <br>
 Another variation of the National team to buff our Polearm Archon Xiangling. Here, Raiden's elemental skill is able to buff Xiangling's burst alongside Bennett, with Xingqiu as Hydro driver.
 Rotation: Raiden's skill -> Xiangling's skill -> Bennett's Burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Raiden's Burst. Noted that Xiangling's burst will snapshot the damage.
+
+### Classic National
+![Classic National](/teams/classic_national.png "Classic National")
+<br>
+This is a classic team comp all the way from version 1.0 of the game. Nowadays, Chongyun is seemingly replaced by Anemo supports or other Sub DPS/DPS to boost team damage, either way, this is still a classic premier 4 star team that still hold up to the test of time.
+Rotation: Chongyun's skill -> Xiangling's skill -> Bennett's burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Chonyun's Burst + Normal ATK. C1 Chongyun here is particular good here to re-trigger Cryo status if paired with C6 Bennett that overrides Pyro infusion.
 
 ### Missile Barrage - Kuki Hyperbloom
 ![Kuki Hyperbloom](/teams/kuki_hyperbloom.png "Kuki Hyperbloom")
