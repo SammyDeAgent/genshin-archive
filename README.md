@@ -68,6 +68,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
 ![Anemo Sub DPS Lynette](/builds/lynette.png "Anemo Sub DPS Lynette")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
+![Geo DPS/Shielder/Healer Noelle](/builds/noelle.png "Geo DPS/Shielder/Healer Noelle")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
@@ -76,7 +77,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <ul>
   <li>Amber</li>
   <li>Beidou</li>
-  <li>Noelle</li>
   <li>Sayu</li>
   <li>Sucrose</li>
   <li>Traveler - Anemo</li>
