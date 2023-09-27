@@ -36,7 +36,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
-![Geo Support/Buffer Gorou](/builds/gorou.png "Geo Support/Buffer Gorou")
+![Geo Support/Buffer/Healer Gorou](/builds/gorou.png "Geo Support/Buffer/Healer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
 ![Dendro Driver/Shielder/Sub DPS Kirara](/builds/kirara.png "Dendro Driver/Shielder/Sub DPS Kirara")
@@ -77,6 +77,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <ul>
   <li>Amber</li>
   <li>Beidou</li>
+  <li>Neuvillette</li>
   <li>Sayu</li>
   <li>Sucrose</li>
   <li>Traveler - Anemo</li>
