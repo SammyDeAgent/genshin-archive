@@ -44,6 +44,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
+![Hydro DPS/Driver Neuvillette](/builds/neuvillette.png "Hydro DPS/Driver Neuvillette")
 ![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
 ![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
@@ -77,7 +78,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <ul>
   <li>Amber</li>
   <li>Beidou</li>
-  <li>Neuvillette</li>
   <li>Sayu</li>
   <li>Sucrose</li>
   <li>Traveler - Anemo</li>
