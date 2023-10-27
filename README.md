@@ -84,7 +84,8 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
   <li>Traveler - Geo</li>
   <li>Traveler - Electro</li>
   <li>Traveler - Hydro</li>
-  <li>Xinyan</li> 
+  <li>Xinyan</li>
+  <li>Yaoyao</li>
 </ul>
 
 
@@ -105,6 +106,11 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 ![Musou Isshin](/teams/raiden_hypercarry.png "Musou Isshin")
 <br>
 Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Anemo Swirl Shred -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen.
+
+### Spring Dragon - Neuvillette Taser
+![Spring Dragon](/teams/neuvillette_taser.png "Spring Dragon")
+<br>
+Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. Rotation: Neuvillette's Skill -> Zhongli Skill -> Anemo Swirl Shred -> Fishcl Skill -> Neuvillette Charged ATK into Skill/Burst into Charged ATK x2. Repeat while using other characters' Burst when downtime. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers.
 
 ### Raiden National
 ![Raiden National](/teams/raiden_national.png "Raiden National")
@@ -128,6 +134,11 @@ Nahida is crucial to the team due to her unique Dendro application, else other D
 ![Thoma Burgeon](/teams/thoma_burgeon.png "Thoma Burgeon")
 <br>
 AoE dendro explosions. Be sure to take a healer or a shield because burgeon will cause team damage! Rotation: create dendro seed via Xingqiu's burst and dendro drivers -> Thoma's Burst + Skill, rinse and repeat. Note that Thoma's Burst pyro driver might be a problem if hes not C6 or have enough energy generation, so Dehya is also a good option. Barbara here can be replaced by another Dendro character if you can survive the bombs.
+
+### Burning Crusade
+![Burning Crusade](/teams/burning_crusade.png "Burning Crusade")
+<br>
+This team specializes in dealing continuous Burning DoT. To ensure the character is not constantly being burned from reactions, a shielder is recommended in such comp. Either way, any Dendro character could work here due to Pyro taking alot of elemental gauge on the enemy, just make sure that the Dendro character that trigger the Burning reaction have sufficient EM.
 
 ### Aggravate Fischl
 ![Aggravate Fischl](/teams/aggravate_fischl.png "Aggravate Fischl")
