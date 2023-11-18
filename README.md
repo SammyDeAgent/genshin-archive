@@ -28,14 +28,16 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ## Frequently Used Builds
 <p>Common characters that I used in Abyss challenges or Overworld ventures. Hover over to see their roles.</p>
 
-![Geo Sub DPS Albedo](/builds/albedo.png "Geo Sub DPS Albedo")
+![Geo Sub DPS/EM Buffer Albedo](/builds/albedo.png "Geo Sub DPS/EM Buffer Albedo")
 ![Cyro DPS Aloy](/builds/aloy.png "Cyro DPS Aloy")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
-![Pyro Sub DPS/Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/Buffer/Healer Bennett")
+![Pyro Sub DPS/ATK Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/ATK Buffer/Healer Bennett")
+![Pyro Tank/Sub DPS/Driver Dehya](/builds/dehya.png "Pyro Tank/Sub DPS/Driver Dehya")
 ![Cryo Healer/EM Buffer Diona](/builds/diona.png "Cryo Healer/EM Buffer Diona")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
+![DMG Buffer/Hydro Sub DPS/Driver/Support/Healer Furina](/builds/furina.png "DMG Buffer/Hydro Sub DPS/Driver/Support/Healer Furina")
 ![Geo Support/Buffer/Healer Gorou](/builds/gorou.png "Geo Support/Buffer/Healer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
@@ -46,15 +48,13 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
 ![Hydro DPS/Driver Neuvillette](/builds/neuvillette.png "Hydro DPS/Driver Neuvillette")
 ![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
-![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
-![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
-![Electro Support/Buffer Sara](/builds/sara.png "Electro Support/Buffer Sara")
+![Electro Support/ATK Buffer Sara](/builds/sara.png "Electro Support/ATK Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
-![Dendro Driver/Support Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler")
+![Dendro Driver/Support/EM Buffer Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler/EM Buffer")
 ![Pyro Sub DPS/Driver Xiangling](/builds/xiangling.png "Pyro Sub DPS/Driver Xiangling")
 ![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
-![Geo Support/Shielder Zhongli](/builds/zhongli.png "Geo Support/Shielder Zhongli")
+![Geo Support/Shielder/Sub DPS Zhongli](/builds/zhongli.png "Geo Support/Shielder/Sub DPS Zhongli")
 
 ## Partial Builds
 <p>Characters that are not used in Abyss nor Overworld that often. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
@@ -71,6 +71,8 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
 ![Geo DPS/Shielder/Healer Noelle](/builds/noelle.png "Geo DPS/Shielder/Healer Noelle")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
+![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
+![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
 ## WIP Builds
@@ -78,6 +80,9 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 <ul>
   <li>Amber</li>
   <li>Beidou</li>
+  <li>Candance</li>
+  <li>Charlotte</li>
+  <li>Heizou</li>
   <li>Sayu</li>
   <li>Sucrose</li>
   <li>Traveler - Anemo</li>
@@ -107,10 +112,10 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 <br>
 Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Anemo Swirl Shred -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen.
 
-### Spring Dragon - Neuvillette Taser
-![Spring Dragon](/teams/neuvillette_taser.png "Spring Dragon")
+### Spring Dragon - Neuvillette Hypercarry
+![Spring Dragon](/teams/neuvillette_hypercarry.png "Spring Dragon")
 <br>
-Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. Rotation: Neuvillette's Skill -> Zhongli Skill -> Anemo Swirl Shred -> Fishcl Skill -> Neuvillette Charged ATK into Skill/Burst into Charged ATK x2. Repeat while using other characters' Burst when downtime. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers.
+Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> Furina's Burst -> Kazuha's Burst -> Charlotte's Burst -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers.
 
 ### Raiden National
 ![Raiden National](/teams/raiden_national.png "Raiden National")
@@ -135,10 +140,15 @@ Nahida is crucial to the team due to her unique Dendro application, else other D
 <br>
 AoE dendro explosions. Be sure to take a healer or a shield because burgeon will cause team damage! Rotation: create dendro seed via Xingqiu's burst and dendro drivers -> Thoma's Burst + Skill, rinse and repeat. Note that Thoma's Burst pyro driver might be a problem if hes not C6 or have enough energy generation, so Dehya is also a good option. Barbara here can be replaced by another Dendro character if you can survive the bombs.
 
+### Dehya Hypercarry
+![Dehya Hypercarry](/teams/dehya_hypercarry.png "Dehya Hypercarry")
+<br>
+With Furina, Dehya offensive capabilities has been increased and seems to be much more consistent, aside from being a DMG mitigation tank. Rotation wise: Furina's Ousia Skill -> Dehya's Skill -> Furina's Burst -> Charlotte's Burst -> Bennett's Burst -> Dehya's Burst + Skill, repeat when Dehya get her burst back. Not great, not terrible, very fun to use for punching enemies to death.
+
 ### Burning Crusade
 ![Burning Crusade](/teams/burning_crusade.png "Burning Crusade")
 <br>
-This team specializes in dealing continuous Burning DoT. To ensure the character is not constantly being burned from reactions, a shielder is recommended in such comp. Either way, any Dendro character could work here due to Pyro taking alot of elemental gauge on the enemy, just make sure that the Dendro character that trigger the Burning reaction have sufficient EM.
+This team specializes in dealing continuous Burning DoT. To ensure the character is not constantly being burned from reactions, a shielder is recommended in such comp. Either way, any Dendro character could work here due to Pyro taking alot of elemental gauge on the enemy, just make sure that the Dendro character that trigger the Burning reaction have sufficient EM. Dehya is useful here to mitigate some of the Burning damage and re-enabling Pyro coordinated attacks on enemies to continue the Burning reaction.
 
 ### Aggravate Fischl
 ![Aggravate Fischl](/teams/aggravate_fischl.png "Aggravate Fischl")
