@@ -32,47 +32,49 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Cyro DPS Aloy](/builds/aloy.png "Cyro DPS Aloy")
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/ATK Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/ATK Buffer/Healer Bennett")
-![Pyro Tank/Sub DPS/Driver Dehya](/builds/dehya.png "Pyro Tank/Sub DPS/Driver Dehya")
+![Cryo Healer Charlotte](/builds/charlotte.png "Cryo Healer Charlotte")
+![Pyro Tank/Sub DPS Dehya](/builds/dehya.png "Pyro Tank/Sub DPS Dehya")
 ![Cryo Healer/EM Buffer Diona](/builds/diona.png "Cryo Healer/EM Buffer Diona")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
 ![Anemo Support/Buffer Faruzan](/builds/faruzan.png "Anemo Support/Buffer Faruzan")
 ![Aggravate Sub DPS Fischl](/builds/fischl.png "Aggravate Sub DPS Fischl")
-![DMG Buffer/Hydro Sub DPS/Driver/Support/Healer Furina](/builds/furina.png "DMG Buffer/Hydro Sub DPS/Driver/Support/Healer Furina")
+![DMG Buffer/Hydro Sub DPS/Support/Healer Furina](/builds/furina.png "DMG Buffer/Hydro Sub DPS/Support/Healer Furina")
 ![Geo Support/Buffer/Healer Gorou](/builds/gorou.png "Geo Support/Buffer/Healer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
-![Dendro Driver/Shielder/Sub DPS Kirara](/builds/kirara.png "Dendro Driver/Shielder/Sub DPS Kirara")
+![Dendro Shielder/Sub DPS Kirara](/builds/kirara.png "Dendro Shielder/Sub DPS Kirara")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
-![Dendro Sub DPS/Driver Nahida](/builds/nahida.png "Dendro Sub DPS/Driver Nahida")
-![Hydro DPS/Driver Neuvillette](/builds/neuvillette.png "Hydro DPS/Driver Neuvillette")
-![Electro DPS/Driver Raiden](/builds/raiden.png "Electro DPS/Driver Raiden")
+![Dendro Sub DPS/EM Buffer Nahida](/builds/nahida.png "Dendro Sub DPS/EM Buffer Nahida")
+![Hydro DPS Neuvillette](/builds/neuvillette.png "Hydro DPS/Driver Neuvillette")
+![Electro DPS/Burst Buffer Raiden](/builds/raiden.png "Electro DPS/Burst Buffer Raiden")
 ![Electro Support/ATK Buffer Sara](/builds/sara.png "Electro Support/ATK Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
-![Dendro Driver/Support/EM Buffer Traveler](/builds/traveler-dendro.png "Dendro Driver/Support Traveler/EM Buffer")
-![Pyro Sub DPS/Driver Xiangling](/builds/xiangling.png "Pyro Sub DPS/Driver Xiangling")
-![Hydro Sub DPS/Driver Xingqiu](/builds/xingqiu.png "Hydro Sub DPS/Driver Xingqiu")
+![Dendro Support/EM Buffer Traveler](/builds/traveler-dendro.png "Dendro Support Traveler/EM Buffer")
+![Pyro Sub DPS Xiangling](/builds/xiangling.png "Pyro Sub DPS Xiangling")
+![Hydro Sub DPS Xingqiu](/builds/xingqiu.png "Hydro Sub DPS Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
 ![Geo Support/Shielder/Sub DPS Zhongli](/builds/zhongli.png "Geo Support/Shielder/Sub DPS Zhongli")
 
 ## Partial Builds
 <p>Characters that are not used in Abyss nor Overworld that often. Some are not fully builded or optimized yet. Hover over to see their roles.</p>
 
-![Dendro Sub DPS/Driver Collei](/builds/collei.png "Dendro Sub DPS/Driver Collei")
-![Cryo Sub DPS/Driver Chongyun](/builds/chongyun.png "Cryo Sub DPS/Driver Chongyun")
+![Dendro Sub DPS Collei](/builds/collei.png "Dendro Sub DPS Collei")
+![Cryo Sub DPS Chongyun](/builds/chongyun.png "Cryo Sub DPS Chongyun")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
-![Cryo Sub DPS/Driver Kaeya](/builds/kaeya.png "Cryo Sub DPS/Driver Kaeya")
+![Physical DPS Freminet](/builds/freminet.png "Physical DPS Freminet")
+![Cryo Sub DPS Kaeya](/builds/kaeya.png "Cryo Sub DPS Kaeya")
 ![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
-![Cryo Shielder/Support/Driver Layla](/builds/layla.png "Cryo Shielder/Support/Driver Layla")
+![Cryo Shielder/Support Layla](/builds/layla.png "Cryo Shielder/Support Layla")
 ![Aggravate Sub DPS/Support Lisa](/builds/lisa.png "Aggravate Sub DPS/Support Lisa")
 ![Anemo Sub DPS Lynette](/builds/lynette.png "Anemo Sub DPS Lynette")
 ![Geo Sub DPS Ningguang](/builds/ningguang.png "Geo Sub DPS Ningguang")
 ![Geo DPS/Shielder/Healer Noelle](/builds/noelle.png "Geo DPS/Shielder/Healer Noelle")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
-![Physical Support/Cryo Driver Rosaria](/builds/rosaria.png "Physical Support/Cryo Driver Rosaria")
+![Physical Support/Cryo Sub DPS Rosaria](/builds/rosaria.png "Physical Support/Cryo Sub DPS Rosaria")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
 ## WIP Builds
@@ -169,6 +171,11 @@ Brothers in arm. Almost same twist as Vape Diluc but instead of Xingqiu, Kaeya w
 ![Razor Hypercarry](/teams/razor_hypercarry.png "Razor Hypercarry")
 <br>
 A physical DPS team, noted that Razor can be replaced by other physical builds such as Fischl or Zhongli (Cresent Pike) etc. Rotation wise: Razor Skill -> Rosaria Burst/Skill -> Mika Burst/Skill -> Yunjin Burst/Skill -> Razor Burst. If you have Eula, go ahead and run wild, though might need to switch out Yunjin if thats the case.
+
+### Freminet Shatter Comp
+![Freminet Shatter Comp](/teams/freminet_shatter.png "Freminet Shatter Comp")
+<br>
+A physical DPS team that focuses on Freminet's shatter DMG bonus. Since Freminet has limited time on his burst duration, he needs to attack very fast to trigger his skill activation and its final Pers (Penguin) DMG. Rotation: Fischl Skill -> Furina Skill/Burst -> Mika Skill/Burst -> Freminet Burst + Pers 4th Skill. That said, Freminet can also go full Cryo route where instead of achieving 4th Pers Skill constantly, he will keep spamming his 1st Pers Skill.
 
 ### Raiden Taser
 ![Raiden Taser](/teams/raiden_taser.png "Raiden Taser")
