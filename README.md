@@ -47,6 +47,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
 ![Elemental Support Mona](/builds/mona.png "Elemental Support Mona")
 ![Dendro Sub DPS/EM Buffer Nahida](/builds/nahida.png "Dendro Sub DPS/EM Buffer Nahida")
+![Geo DPS Navia](builds/navia.png "Geo DPS Navia")
 ![Hydro DPS Neuvillette](/builds/neuvillette.png "Hydro DPS/Driver Neuvillette")
 ![Electro DPS/Burst Buffer Raiden](/builds/raiden.png "Electro DPS/Burst Buffer Raiden")
 ![Electro Support/ATK Buffer Sara](/builds/sara.png "Electro Support/ATK Buffer Sara")
@@ -75,6 +76,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
 ![Physical Support/Cryo Sub DPS Rosaria](/builds/rosaria.png "Physical Support/Cryo Sub DPS Rosaria")
+![Elemental Support Sucrose](/builds/sucrose.png "Elemental Support Sucrose")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
 
 ## WIP Builds
@@ -83,10 +85,10 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
   <li>Amber</li>
   <li>Beidou</li>
   <li>Candance</li>
+  <li>Chevreuse</li>
   <li>Charlotte</li>
   <li>Heizou</li>
   <li>Sayu</li>
-  <li>Sucrose</li>
   <li>Traveler - Anemo</li>
   <li>Traveler - Geo</li>
   <li>Traveler - Electro</li>
