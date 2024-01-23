@@ -33,6 +33,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Hydro Healer/Buffer Barbara](/builds/barbara.png "Hydro Healer/Buffer Barbara")
 ![Pyro Sub DPS/ATK Buffer/Healer Bennett](/builds/bennett.png "Pyro Sub DPS/ATK Buffer/Healer Bennett")
 ![Cryo Healer Charlotte](/builds/charlotte.png "Cryo Healer Charlotte")
+![Pyro+Electro Support/Buffer/Healer Chevreuse](/builds/chevreuse.png "Pyro+Electro Support/Buffer/Healer Chevreuse")
 ![Pyro Tank/Sub DPS Dehya](/builds/dehya.png "Pyro Tank/Sub DPS Dehya")
 ![Cryo Healer/EM Buffer Diona](/builds/diona.png "Cryo Healer/EM Buffer Diona")
 ![Pyro DPS Diluc](/builds/diluc.png "Pyro DPS Diluc")
@@ -85,8 +86,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
   <li>Amber</li>
   <li>Beidou</li>
   <li>Candance</li>
-  <li>Chevreuse</li>
-  <li>Charlotte</li>
   <li>Heizou</li>
   <li>Sayu</li>
   <li>Traveler - Anemo</li>
@@ -114,18 +113,22 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 ### Musou Isshin - Raiden Hypercarry
 ![Musou Isshin](/teams/raiden_hypercarry.png "Musou Isshin")
 <br>
-Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Anemo Swirl Shred -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen.
+Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Chevreuse Burst/Skill -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen. The introduction of Chevreuse makes this team void of Kazuha to be used in other team, else wise you can still use a anemo unit if you don't have chevy.
 
 ### Spring Dragon - Neuvillette Hypercarry
 ![Spring Dragon](/teams/neuvillette_hypercarry.png "Spring Dragon")
 <br>
 Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> Furina's Burst -> Kazuha's Burst -> Charlotte's Burst -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers.
 
+### Gunshot Bride - Navia Hypercarry
+![Gunshot Bride](/teams/navia_hypercarry.png " Gunshot Bride")
+In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Zhongli Skill -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Bennett Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia.
+
 ### Raiden National
 ![Raiden National](/teams/raiden_national.png "Raiden National")
 <br>
 Another variation of the National team to buff our Polearm Archon Xiangling. Here, Raiden's elemental skill is able to buff Xiangling's burst alongside Bennett, with Xingqiu as Hydro driver.
-Rotation: Raiden's skill -> Xiangling's skill -> Bennett's Burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Raiden's Burst. Noted that Xiangling's burst will snapshot the damage.
+Rotation: Raiden's skill -> Xiangling's skill -> Bennett's Burst -> Xingqiu's Burst/Skill -> Xiangling's Burst -> Raiden's Burst. Noted that Xiangling's burst will snapshot the damage. Chevreuse can replace Xingqiu here to exchange Vaporize DMG for more Electro and Pyro DMG.
 
 ### Classic National
 ![Classic National](/teams/classic_national.png "Classic National")
