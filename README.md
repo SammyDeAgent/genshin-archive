@@ -55,6 +55,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
 ![Dendro Support/EM Buffer Traveler](/builds/traveler-dendro.png "Dendro Support Traveler/EM Buffer")
 ![Pyro Sub DPS Xiangling](/builds/xiangling.png "Pyro Sub DPS Xiangling")
+![Plunge ATK Buffer/Support/Healer Xianyun](/builds/xianyun.png "Plunge ATK Buffer/Support/Healer Xianyun")
 ![Hydro Sub DPS Xingqiu](/builds/xingqiu.png "Hydro Sub DPS Xingqiu")
 ![Normal ATK Buffer Yunjin](/builds/yunjin.png "Normal ATK Buffer Yunjin")
 ![Geo Support/Shielder/Sub DPS Zhongli](/builds/zhongli.png "Geo Support/Shielder/Sub DPS Zhongli")
@@ -66,6 +67,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Cryo Sub DPS Chongyun](/builds/chongyun.png "Cryo Sub DPS Chongyun")
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Physical DPS Freminet](/builds/freminet.png "Physical DPS Freminet")
+![Pyro DPS Gaming](/builds/gaming.png "Pyro DPS Gaming")
 ![Cryo Sub DPS Kaeya](/builds/kaeya.png "Cryo Sub DPS Kaeya")
 ![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
@@ -113,16 +115,22 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 ### Musou Isshin - Raiden Hypercarry
 ![Musou Isshin](/teams/raiden_hypercarry.png "Musou Isshin")
 <br>
-Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Chevreuse Burst/Skill -> Bennett Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen. The introduction of Chevreuse makes this team void of Kazuha to be used in other team, else wise you can still use a anemo unit if you don't have chevy.
+Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill ->  Bennett's Burst -> Chevreuse Burst/Skill -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen. The introduction of Chevreuse makes this team void of Kazuha to be used in other team, else wise you can still use a anemo unit if you don't have chevy.
 
 ### Spring Dragon - Neuvillette Hypercarry
 ![Spring Dragon](/teams/neuvillette_hypercarry.png "Spring Dragon")
 <br>
-Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> Furina's Burst -> Kazuha's Burst -> Charlotte's Burst -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers.
+Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> Furina's Burst -> Xianyun's Burst -> Fischl's SKill -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers. Xianyun here can be replaced with Jean.
 
 ### Gunshot Bride - Navia Hypercarry
-![Gunshot Bride](/teams/navia_hypercarry.png " Gunshot Bride")
+![Gunshot Bride](/teams/navia_hypercarry.png "Gunshot Bride")
+<br>
 In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Zhongli Skill -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Bennett Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia.
+
+### Dragon Strike
+![Dragon Strike](/teams/dragon_strike.png "Dragon Strike")
+<br>
+Before Xianyun's release, only a specific number of character can utilize Plunge to its full potential. With Xianyun, everyone now can become a full-on Plunge ATK DPS, Diluc here can be switch to Gaming or other high Plunge DMG DPS. Rotation wise: Furina's Ousia Skill/Burst -> Xianyun's Burst -> Bennett's Burst -> DPS Plunge ATK. Become of this team, even unconventional character can become a great DPS.
 
 ### Raiden National
 ![Raiden National](/teams/raiden_national.png "Raiden National")
@@ -152,10 +160,20 @@ AoE dendro explosions. Be sure to take a healer or a shield because burgeon will
 <br>
 With Furina, Dehya offensive capabilities has been increased and seems to be much more consistent, aside from being a DMG mitigation tank. Rotation wise: Furina's Ousia Skill -> Dehya's Skill -> Furina's Burst -> Charlotte's Burst -> Bennett's Burst -> Dehya's Burst + Skill, repeat when Dehya get her burst back. Not great, not terrible, very fun to use for punching enemies to death.
 
+### Aloy Reverse Melt
+![Aloy Melt](/teams/aloy_melt.png "Aloy Melt")
+<br>
+This team focuses on Normal ATK Aloy Build with occasional burst, Dehya and Nahida here is used to maintain the burning reaction for Aloy's Reverse Melt. Rotation wise: Nahida Skill/Burst -> Dehya's Skill -> Yunjin's Burst -> Aloy Burst/Skill. Do in mind, it is perferred to use this rotation when it is guranteed for Aloy to activate her Rushing Ice state, else some damage will be lost.
+
 ### Burning Crusade
 ![Burning Crusade](/teams/burning_crusade.png "Burning Crusade")
 <br>
 This team specializes in dealing continuous Burning DoT. To ensure the character is not constantly being burned from reactions, a shielder is recommended in such comp. Either way, any Dendro character could work here due to Pyro taking alot of elemental gauge on the enemy, just make sure that the Dendro character that trigger the Burning reaction have sufficient EM. Dehya is useful here to mitigate some of the Burning damage and re-enabling Pyro coordinated attacks on enemies to continue the Burning reaction.
+
+### Judgement Cut
+![Judgment Cut](/teams/judgement_cut.png "Judgment Cut")
+<br>
+Judgement Cut Keqing focuses fully on her Aggravate reaction with her Ultimate, if done correctly, each rotation with have Keqing's Burst up 24/7. Rotation: Nahida's Skill Burst -> Keqing's Skill -> Kazuha's Skill/Burst -> Sara's Skill/Burst -> Keqing's 2nd Skill/Burst. If running low on healing, Kazuha can probably be replaced by Jean or Sayu.
 
 ### Aggravate Fischl
 ![Aggravate Fischl](/teams/aggravate_fischl.png "Aggravate Fischl")
