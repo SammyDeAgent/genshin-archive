@@ -115,7 +115,7 @@ My Trump Card team composition of obliterating everything that is not Geo Aligne
 ### Musou Isshin - Raiden Hypercarry
 ![Musou Isshin](/teams/raiden_hypercarry.png "Musou Isshin")
 <br>
-Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill ->  Bennett's Burst -> Chevreuse Burst/Skill -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen. The introduction of Chevreuse makes this team void of Kazuha to be used in other team, else wise you can still use a anemo unit if you don't have chevy.
+Second Trump Card team composition of annihilating opponents that is not Electro Aligned. Most of the time, Raiden's burst will have 100% uptime due to her immense energy generation, including her teammates. Rotation: Raiden's skill -> Chevreuse Burst/Skill -> Bennett's Burst -> Sara Burst/Skill -> Raiden's Burst, rinse and repeat. Enjoy the beautiful BIG purple number on screen. The introduction of Chevreuse makes this team void of Kazuha to be used in other team, else wise you can still use a anemo unit if you don't have chevy.
 
 ### Spring Dragon - Neuvillette Hypercarry
 ![Spring Dragon](/teams/neuvillette_hypercarry.png "Spring Dragon")
