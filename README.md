@@ -68,6 +68,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Electro Healer/Battery Dori](/builds/dori.png "Electro Healer/Battery Dori")
 ![Physical DPS Freminet](/builds/freminet.png "Physical DPS Freminet")
 ![Pyro DPS Gaming](/builds/gaming.png "Pyro DPS Gaming")
+![Anemo DPS Heizou](/builds/heizou.png "Anemo DPS Heizou")
 ![Cryo Sub DPS Kaeya](/builds/kaeya.png "Cryo Sub DPS Kaeya")
 ![Bloom Kaveh](/builds/kaveh.png "Bloom Kaveh")
 ![Aggravate DPS Keqing](/builds/keqing.png "Aggravate DPS Keqing")
@@ -88,7 +89,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
   <li>Amber</li>
   <li>Beidou</li>
   <li>Candance</li>
-  <li>Heizou</li>
   <li>Sayu</li>
   <li>Traveler - Anemo</li>
   <li>Traveler - Geo</li>
