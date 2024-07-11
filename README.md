@@ -79,6 +79,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Geo DPS/Shielder/Healer Noelle](/builds/noelle.png "Geo DPS/Shielder/Healer Noelle")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
+![Electro DPS Sethos](/builds/sethos.png "Electro DPS Sethos")
 ![Physical Support/Cryo Sub DPS Rosaria](/builds/rosaria.png "Physical Support/Cryo Sub DPS Rosaria")
 ![Elemental Support Sucrose](/builds/sucrose.png "Elemental Support Sucrose")
 ![Pyro DPS Yanfei](/builds/yanfei.png "Pyro DPS Yanfei")
@@ -179,6 +180,16 @@ Judgement Cut Keqing focuses fully on her Aggravate reaction with her Ultimate, 
 ![Aggravate Fischl](/teams/aggravate_fischl.png "Aggravate Fischl")
 <br>
 This team mainly focuses on the full potential of Fischl. Using Diona's Constellation 6 that increases EM, Nahida's Burst and also dual Dendro Resonanance, it can bump the aggravate + spread damage to sky high! Just pop all EM increasing buff and apply Dendro Status on the enemies before using either Fischl Skill or Burst; if used correctly, Fischl's Oz will have indefinite uptime by cycling between Skill and Burst. Other EM buffer or Element Support can also be used here. Technically speaking, Keqing can also be used here.
+
+### Anubis Shot
+![Anubis Shot](/teams/sethos_anubis.png "Anubis Shot")
+<br>
+In this team, Sethos specializes either his charged attack or his burst's attack conversion to deal damage, all such damage is considered Charged ATK. Use his skill in conjuction with Dori's burst to maximize his energy regen to be use in his charged attack or burst. Dori's burst infusion also allow easier electro swirl as quicken enemies with lose the electro aura.
+
+### Heizou One-Punch
+![Heizou One-Punch](/teams/heizou_hypercarry.png "Heizou One-Punch")
+<br>
+This team is a specialized team for Heizou and also Wanderer, in which Faruzan and Yunjin shall buff up their Anemo DMG and normal attacks, while Bennett buffs up their burst and skill, especially Heizou's 4 stage charge up skill. Never felt tired to see Heizou one punch enemy to oblivion.
 
 ### Vape Diluc
 ![Vape Diluc](/teams/vape_diluc.png "Vape Diluc")
