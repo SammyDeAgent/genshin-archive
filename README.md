@@ -42,7 +42,9 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![DMG Buffer/Hydro Sub DPS/Support/Healer Furina](/builds/furina.png "DMG Buffer/Hydro Sub DPS/Support/Healer Furina")
 ![Geo Support/Buffer/Healer Gorou](/builds/gorou.png "Geo Support/Buffer/Healer Gorou")
 ![Geo DPS Itto](/builds/itto.png "Geo DPS Itto")
+![Elemental Support Kachina](/builds/kachina.png "Elemental Support Kachina")
 ![Elemental Support Kazuha](/builds/kazuha.png "Elemental Support Kazuha")
+![Dendro DPS Kinich](/builds/kinich.png "Dendro DPS Kinich")
 ![Dendro Shielder/Sub DPS Kirara](/builds/kirara.png "Dendro Shielder/Sub DPS Kirara")
 ![Hyperbloom Kuki](/builds/kuki.png "Hyperbloom Kuki")
 ![Physical & ATK SPD Support/Buffer/Healer Mika](/builds/mika.png "Physical & ATK SPD Support/Buffer/Healer Mika")
@@ -79,6 +81,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Geo DPS/Shielder/Healer Noelle](/builds/noelle.png "Geo DPS/Shielder/Healer Noelle")
 ![Physical DPS/Healer Qiqi](/builds/qiqi.png "Physical DPS/Healer Qiqi")
 ![Physical DPS Razor](/builds/razor.png "Physical DPS Razor")
+![Anemo Support/Healer Sayu](/builds/sayu.png "Anemo Support/Healer Sayu")
 ![Electro DPS Sethos](/builds/sethos.png "Electro DPS Sethos")
 ![Physical Support/Cryo Sub DPS Rosaria](/builds/rosaria.png "Physical Support/Cryo Sub DPS Rosaria")
 ![Elemental Support Sucrose](/builds/sucrose.png "Elemental Support Sucrose")
@@ -90,7 +93,6 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
   <li>Amber</li>
   <li>Beidou</li>
   <li>Candance</li>
-  <li>Sayu</li>
   <li>Traveler - Anemo</li>
   <li>Traveler - Geo</li>
   <li>Traveler - Electro</li>
@@ -121,12 +123,18 @@ Second Trump Card team composition of annihilating opponents that is not Electro
 ### Spring Dragon - Neuvillette Hypercarry
 ![Spring Dragon](/teams/neuvillette_hypercarry.png "Spring Dragon")
 <br>
-Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> Furina's Burst -> Xianyun's Burst -> Fischl's SKill -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers. Xianyun here can be replaced with Jean.
+Another Trump Card team composition of rapid dismantling the opponents that is not Hydro Aligned. Neuvillette is a powerful and versatile DPS where team composition can be varied via Hydro Reactions to maximize his passive talent. In this case however, if without C1, his 3rd passive talent is replaced by Furina as her support capabilities outweights the passive talent. Rotation: Furina's Ousia Skill -> Neuvillete's Burst -> -> Kachina Skill/Burst -> Kazuha Skill/Burst -> Furina's Burst -> Neuvillete Charge ATKx2 to Skill to Charge ATK; rinse and repeat. As said, his team is very versatile and you can replace anyone here with other Hydro based elemental reaction triggers. Xianyun here can be replaced with Jean.
 
 ### Gunshot Bride - Navia Hypercarry
 ![Gunshot Bride](/teams/navia_hypercarry.png "Gunshot Bride")
 <br>
-In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Zhongli Skill -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Bennett Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia.
+In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Zhongli Skill -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Bennett Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia. Kachina can replace Zhongli if require more DMG bonus than DEF shred.
+
+### ODM Cannon - Kinich Hypercarry
+![ODM Cannon](/teams/kinich_hypercarry.png "ODM Cannon")
+<br>
+Kinich unique playstyle is fun and also a super heavy hitter if the team is setup correctly. In this setup, Dehya is using the Deepwood Memories 4-pc set to proc the Dendro RES Shred. For maximum 5 cannon shot rotation as follows: Zhongli's Skill -> Dehya's Skill -> Bennett's Burst -> Kinich Skill + 1st Cannon Shot -> Kinich Burst + 2st Cannon Shot -> Kinich 3rd, 4th and 5th Cannon Shot. The timing for the 5th cannon shot is very tight, so it requires some precise rotation on hand, note that Kinich's Burst extends the nightsoul duration and charges the nightsoul points too during burst animation.
+
 
 ### Dragon Strike
 ![Dragon Strike](/teams/dragon_strike.png "Dragon Strike")
