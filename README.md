@@ -55,6 +55,7 @@ Gacha Log Export Tool - [Link Here](https://github.com/biuuu/genshin-wish-export
 ![Electro DPS/Burst Buffer Raiden](/builds/raiden.png "Electro DPS/Burst Buffer Raiden")
 ![Electro Support/ATK Buffer Sara](/builds/sara.png "Electro Support/ATK Buffer Sara")
 ![Burgeon Thoma](/builds/thoma.png "Burgeon Thoma")
+![Dendro DPS Tighnari](/builds/tighnari.png "Dendro DPS Tighnari")
 ![Dendro Support/EM Buffer Traveler](/builds/traveler-dendro.png "Dendro Support Traveler/EM Buffer")
 ![Pyro Sub DPS Xiangling](/builds/xiangling.png "Pyro Sub DPS Xiangling")
 ![Plunge ATK Buffer/Support/Healer Xianyun](/builds/xianyun.png "Plunge ATK Buffer/Support/Healer Xianyun")
@@ -128,7 +129,7 @@ Another Trump Card team composition of rapid dismantling the opponents that is n
 ### Gunshot Bride - Navia Hypercarry
 ![Gunshot Bride](/teams/navia_hypercarry.png "Gunshot Bride")
 <br>
-In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Zhongli Skill -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Bennett Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia. Kachina can replace Zhongli if require more DMG bonus than DEF shred.
+In this team, Navia will be collecting shotgun shells (crystallized crystal) and unloading the 12 gauge towards the enemies. To maximize crystallize reaction, Zhongli, Albedo or Geo Traveler would be great here. If using Furina, Bennett can probably be replaced by a healer such as Mika to maximize Furina's DMG Boost. Rotation wise: Kachina Skill/Burst -> Navia Burst + 1x Skill -> Furina Skill/Burst -> Xianyun Skill/Burst -> Navia Shotgun Attack, rinse and repeat. If without Furina, you can use a second Pyro unit or other ATK support unit to aid Navia. Zhongli can replace Kachina if require more DEF shred than DMG bonus. Xianyun here for maximizing Navia's Geo Plunging in between shotgun shots.
 
 ### ODM Cannon - Kinich Hypercarry
 ![ODM Cannon](/teams/kinich_hypercarry.png "ODM Cannon")
@@ -178,6 +179,11 @@ This team focuses on Normal ATK Aloy Build with occasional burst, Dehya and Nahi
 ![Burning Crusade](/teams/burning_crusade.png "Burning Crusade")
 <br>
 This team specializes in dealing continuous Burning DoT. To ensure the character is not constantly being burned from reactions, a shielder is recommended in such comp. Either way, any Dendro character could work here due to Pyro taking alot of elemental gauge on the enemy, just make sure that the Dendro character that trigger the Burning reaction have sufficient EM. Dehya is useful here to mitigate some of the Burning damage and re-enabling Pyro coordinated attacks on enemies to continue the Burning reaction.
+
+### Quicken Tighnari
+![Quicken Tighnari](/teams/tighnari_quicken.png "Quicken Tighnari")
+<br>
+This team specializes in Tighnari's DPS potential in a Quicken environment. Using Fishcl or other electro trigger to consistantly applies Electro for Quicken effect to maximize damage. Rotation wise: Zhongl's Skill -> Nahida Burst/Skill -> Fischl Skill -> Tighnari Skill -> Tighnari Burst -> Tighnari Charged Shot x3.
 
 ### Judgement Cut
 ![Judgment Cut](/teams/judgement_cut.png "Judgment Cut")
